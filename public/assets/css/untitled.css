@@ -1,0 +1,20 @@
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color:#000000;
+  background-color:#eeeeee;
+}
+
+.table-responsive {
+  width:60%;
+  margin:auto;
+  text-align:left;
+  background-color:#337ab7;
+  color:rgb(255,255,255);
+}
+
+.table-head {
+  text-align:center;
+}
+
+.text-nowrap.text-center {
+  color:white;
+}

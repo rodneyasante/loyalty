@@ -1,0 +1,153 @@
+nav.navbar.navbar-default {
+  margin-bottom:0px;
+}
+
+@media (min-width:992px) {
+  .product h2 {
+    margin-top:0;
+  }
+}
+
+.navbar .navbar-brand {
+  font-size:24px;
+  line-height:18px;
+}
+
+.reviewer-name {
+  margin-right:10px;
+}
+
+.site-footer {
+  padding:20px 0;
+  text-align:center;
+}
+
+@media (min-width:768px) {
+  .site-footer h5 {
+    text-align:left;
+  }
+}
+
+.site-footer h5 {
+  color:inherit;
+  font-size:16px;
+}
+
+.site-footer .social-icons a:hover {
+  opacity:1;
+}
+.footer-basic .social {
+  color: #337ab7;
+  padding-top:10px;
+}
+
+.site-footer .social-icons a{
+  display:inline-block;
+  width:32px;
+  border:none;
+  font-size:20px;
+  border-radius:50%;
+  margin:4px;
+  color:#fff;
+  text-align:center;
+  background-color:#337ab7;
+  height:32px;
+  opacity:0.8;
+  line-height:32px;
+
+}
+
+@media (min-width:768px) {
+  .site-footer .social-icons {
+    text-align:right;
+  }
+}
+
+.btn.write-review {
+  float:right;
+  margin-top:-6px;
+}
+
+a:hover, a:focus {
+  background-color:#343d45 !important;
+  text-decoration:none;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color:#337ab7;
+  background-color:#337ab7;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color:#000000;
+  background-color:#eeeeee;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color:#000000;
+  background-color:#eeeeee;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color:#000000;
+  background-color:#eeeeee;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family:"News Cycle","Arial Narrow Bold",sans-serif;
+  font-weight:700;
+  line-height:1.1;
+  color:#337ab7;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  color:#337ab7;
+  background-color:#337ab7;
+  border-color:#337ab7;
+}
+
+.thumbnail > img, .thumbnail a > img {
+  margin-left:initial;
+  /*margin-right:auto;*/
+}
+
+.thumbnail > img, .thumbnail a > img {
+  margin-left:auto;
+  /*margin-right:auto;*/
+}
+
+.text-center {
+  text-align:center;
+}
+
+.text-center {
+  text-align:center;
+}
+
+.text-center {
+  text-align:center;
+}
+
+.text-center {
+  text-align:center;
+}
+
+
+
+.dataTables_wrapper .dataTables_info {
+  color:white !important;
+  padding-left: 8px !important;
+  
+}
+label{
+  color: white !important;
+  padding-left: 8px !important;
+
+}
+label select{
+  color: black!important;
+}
+.dataTables_filter label input{
+  color: black !important;
+  padding-right: 8px !important;
+}
